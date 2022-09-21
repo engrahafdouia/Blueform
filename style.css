@@ -18,7 +18,7 @@ body{
     border-radius: 15px ;
 }
 .left{
-background-image: url('girl.jpg');
+background-image: url(girl.jpg);
 float: left;
 width: 50%;
 height: 425px;
